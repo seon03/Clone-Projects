@@ -1,4 +1,4 @@
-- 기록: https://velog.io/@freedy/React-공부-1
+- 기록: https://velog.io/@freedy/series/Web
 
 ---
 
