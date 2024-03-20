@@ -1,4 +1,4 @@
-- 기록: https://velog.io/@freedy/series/Web
+- [기술블로그](https://velog.io/@freedy/series/Web)
 
 ---
 
