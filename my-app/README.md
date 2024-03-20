@@ -1,4 +1,4 @@
-- https://velog.io/@freedy/series/Web
+https://velog.io/@freedy/series/Web
 
 ---
 
