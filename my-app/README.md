@@ -1,4 +1,4 @@
-- [기술블로그](https://velog.io/@freedy/series/Web)
+- https://velog.io/@freedy/series/Web
 
 ---
 
