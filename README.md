@@ -1,4 +1,4 @@
-# Projects
+# Mini-Projects
 **1. my-app** : React.js 공부하면서 작성한 코드 
 
 - React.js/Node.js
