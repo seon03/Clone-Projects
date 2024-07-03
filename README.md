@@ -1,4 +1,7 @@
-# Mini-Projects
+# Clone-Projects
+
+클론코딩 프로젝트
+
 **1. my-app** : React.js 공부하면서 작성한 코드 
 
 - React.js/Node.js
